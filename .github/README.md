@@ -9,5 +9,5 @@
 <a href="https://github.com/AnonymousX1025"><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/></a>
 
 ## Contribution Activity 👀
-<a href="https://github.com/AnonymousX1025"><img src="https://streak-stats.demolab.com?user=AnonymousX1025&theme=github-dark-blue&hide_border=true&fire=FFFFFF" alt="GitHub Streak"/></a>
+<a href="https://github.com/AnonymousX1025"><img src="https://github-readme-streak-stats-eight.vercel.app?user=AnonymousX1025&theme=github-dark-blue&hide_border=true&fire=FFFFFF" alt="GitHub Streak"/></a>
 <a href="https://github.com/AnonymousX1025"><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/></a>
