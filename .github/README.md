@@ -5,7 +5,7 @@
 <a href="https://github.com/AnonymousX1025"><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/></a>
 
 ## GitHub Stats 😼
-<a href="https://github.com/AnonymousX1025"><img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=github_dark&custom_title=Hmm%2C+interesting&include_all_commits=true&hide_border=true&bg_color=000000" width="100%" alt="Stats"/></a>
+<a href="https://github.com/AnonymousX1025"><img src="https://github-readme-stats-ffqf-lu9nylooc-hoveringgoats-projects.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=github_dark&custom_title=Hmm%2C+interesting&include_all_commits=true&hide_border=true&bg_color=000000" width="100%" alt="Stats"/></a>
 <a href="https://github.com/AnonymousX1025"><img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/></a>
 
 ## Contribution Activity 👀
